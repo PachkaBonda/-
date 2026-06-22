@@ -1,0 +1,6 @@
+{
+  "name": "IR Copy & Control",
+  "description": "Инструмент для создания универсальных ИК-пультов для Xiaomi/Redmi/Poco с функцией обучения через камеру.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
